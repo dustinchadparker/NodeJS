@@ -1,0 +1,14 @@
+{
+  "name": "nodefun",
+  "version": "1.0.0",
+  "description": "Having some node fun",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Charlie",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
