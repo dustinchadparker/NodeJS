@@ -2,7 +2,6 @@ let path = require("path");
 let fs = require("fs");
 let request = require("request");
 
-let title1 = [];
 let articleArray = [
   {
     title: [],
